@@ -30,7 +30,7 @@ header h2 {
 
 .row-content {
   padding: 50px 0px;
-  border-bottom: 1px ridge;
+  border-bottom: 1px solid;
   min-height: 200px;
 }
 
